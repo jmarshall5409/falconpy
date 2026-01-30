@@ -1,0 +1,121 @@
+{
+  "ngsiem_Dashboards (all)": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "ngsiem_Dashboards (falcon)": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "ngsiem_Dashboards (third-party)": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "ngsiem_Parsers": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "ngsiem_Saved Queries (all)": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "ngsiem_Lookup Files (all)": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "hosts_All Devices": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "hosts_Online Devices": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "hosts_Windows Devices": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "hosts_Linux Devices": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "hosts_Mac Devices": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "alerts": {
+    "status": 200,
+    "count": 0,
+    "total": 0
+  },
+  "incidents": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "iocs": {
+    "status": 200,
+    "count": 0
+  },
+  "policy_Prevention Policies": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "policy_Device Control": {
+    "status": "error",
+    "message": "'DeviceControlPolicies' object has no attribute 'query_device_control_policies'"
+  },
+  "host_groups": {
+    "status": 200,
+    "count": 0,
+    "total": 0,
+    "errors": [],
+    "sample": []
+  },
+  "sensor_installers": {
+    "status": 200,
+    "count": 0
+  },
+  "vulnerabilities": {
+    "status": 400,
+    "count": 0
+  }
+}
